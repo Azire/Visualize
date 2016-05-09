@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url(font-awesome.min.css);
+/* @import url(font-awesome.min.css); */
 @import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:200");
 
 /*
@@ -1409,7 +1409,6 @@
 	}
 
 	body {
-		/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#471d47+0,4c2f4c+32,32254f+70,304659+100 */
 		background: #471d47; /* Old browsers */
 		background: -moz-linear-gradient(left,  #471d47 0%, #4c2f4c 32%, #32254f 70%, #304659 100%); /* FF3.6-15 */
 		background: -webkit-linear-gradient(left,  #471d47 0%,#4c2f4c 32%,#32254f 70%,#304659 100%); /* Chrome10-25,Safari5.1-6 */
